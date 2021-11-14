@@ -53,10 +53,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sushruthchunchu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/sushruth.chunchu"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/sushruth_chunchu/"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
-<a href = "https://stackoverflow.com/users/12518273/sushruth"><img src=""></a>
+<a href = "https://www.linkedin.com/in/sushruthchunchu/"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/sushruth.chunchu"><img src="https://img.icons8.com/fluent/50/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/sushruth_chunchu/"><img src="https://img.icons8.com/fluent/50/000000/instagram-new--v3.png"/></a>
+<a href = "https://stackoverflow.com/users/12518273/sushruth"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"></a>
 
 </p>
 
