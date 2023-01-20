@@ -6,6 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
+- 📖 I,m Currently studying **Master's in Computer Science**
+
 - 🔭 I’m currently working on **Data analytics**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
